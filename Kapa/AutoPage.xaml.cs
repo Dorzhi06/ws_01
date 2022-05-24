@@ -43,7 +43,7 @@ namespace Kapa
                         mw.NVG.Navigate(new AdminPage());
                     }else
                     {
-                        MessageBox.Show("Недостаточно прав для админ панели");
+                        MessageBox.Show("Недостаточно прав для админa");
                     }
                 }
             }
